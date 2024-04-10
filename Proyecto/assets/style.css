@@ -1,0 +1,21 @@
+P{
+    text-align: center;
+    color:red; }
+
+li{
+    text-align: center;
+    color:green;}
+
+h2{
+    text-align: center;
+    color:blue; }
+
+img{
+    display: block;
+    width: auto;
+    margin:auto;
+    border-bottom: 100px;
+    border-color: black;
+    }    
+
+.libros{color: aqua}
